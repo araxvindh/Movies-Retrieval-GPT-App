@@ -1,0 +1,4 @@
+langchain
+pymongo
+streamlit
+sentence_transformers
